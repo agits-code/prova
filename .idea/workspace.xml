@@ -2,12 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e0ca28c-1631-4318-b5b0-85653b598903" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prova.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AmazonGrabber.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Brand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DriverEp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EpriceGrabber.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Grabber.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainGrabber.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MediaworldGrabber.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/DriverAmz.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/DriverAz.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/backup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/base.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/pag2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/port.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/ripristino.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/sezione singolo portatile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/sezione.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ep.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +31,20 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML4 File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="version-1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
@@ -33,13 +60,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backup" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63344/prova/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,33 +94,40 @@
       <option name="presentableId" value="Default" />
       <updated>1601657029737</updated>
       <workItem from="1601657030992" duration="1000000" />
-      <workItem from="1601719960530" duration="15887000" />
+      <workItem from="1601719960530" duration="19031000" />
+      <workItem from="1603094937512" duration="951000" />
+      <workItem from="1603229402739" duration="89687000" />
+      <workItem from="1605907403608" duration="432000" />
+      <workItem from="1605910367570" duration="476000" />
+      <workItem from="1606302764903" duration="109642000" />
+      <workItem from="1606937180679" duration="28595000" />
+      <workItem from="1607029785434" duration="22774000" />
+      <workItem from="1607115075387" duration="24571000" />
+      <workItem from="1607283603232" duration="38601000" />
+      <workItem from="1608077873291" duration="5016000" />
     </task>
+    <task id="LOCAL-00001" summary="1° regexp">
+      <created>1601989780900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601989780900</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1° regexp">
+      <created>1601990096957</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601990096957</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="290" y="70" key="#PHP" timestamp="1601657539875">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="290" y="70" key="#PHP/0.23.1280.777@0.23.1280.777" timestamp="1601657539875" />
-    <state x="198" y="0" key="CommitChangelistDialog2" timestamp="1601989780602">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="198" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1601989780602" />
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1601989877396">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1601989877396" />
-    <state x="433" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601990049572">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="433" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1601990049572" />
-    <state x="462" y="301" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601990041376">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="462" y="301" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.800@0.0.1280.800" timestamp="1601990041376" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1° regexp" />
+    <option name="LAST_COMMIT_MESSAGE" value="1° regexp" />
   </component>
 </project>
