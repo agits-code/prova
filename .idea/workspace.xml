@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="844e0f7f-0235-4249-aa02-7619b11eaf72" name="Default Changelist" comment="con macBookPro">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AmazonGrabber.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brand.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EpriceGrabber.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Grabber.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainGrabber.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MediaworldGrabber.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnieuroGrabber.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/uni-div.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/uni.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/unieuro.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +17,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
@@ -41,6 +39,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -52,8 +56,18 @@
       <option name="presentableId" value="Default" />
       <updated>1609283288982</updated>
       <workItem from="1609283291318" duration="121000" />
-      <workItem from="1609336043212" duration="1254000" />
+      <workItem from="1609336043212" duration="1961000" />
+      <workItem from="1609354383351" duration="574000" />
+      <workItem from="1609355054065" duration="599000" />
     </task>
+    <task id="LOCAL-00001" summary="con macBookPro">
+      <created>1609337344654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609337344654</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,6 +83,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="con macBookPro" />
